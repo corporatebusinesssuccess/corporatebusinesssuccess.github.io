@@ -1,13 +1,16 @@
 html, body{
     position: relative;
-    height: 100%;
+    /*height: 100%;*/
     width: 100%;
-    overflow: hidden;
+    /*overflow: hidden;*/
     padding: 0;
     margin: 0;
     background-color: #FFFF99;
 }
 
+.logo {
+    width: 10em;
+}
 .fixed-bg{
     background: #4affb0;
     position: fixed;
