@@ -3,7 +3,9 @@ html, body{
     width: 100%;
     padding: 0;
     margin: 0;
-    background-color: #FFFF99;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
 }
 
 .header {
@@ -11,9 +13,13 @@ html, body{
 }
 
 .logo {
-    width: 10em;
+    width: 50%;
+    padding-bottom: 10%;
 }
 
 .content {
     text-align: center;
+    max-width: 640px;
+    margin: 0 auto;
+    padding-bottom: 20%;
 }
